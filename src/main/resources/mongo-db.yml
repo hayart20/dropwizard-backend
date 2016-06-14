@@ -1,0 +1,3 @@
+mongoDbHost: localhost
+mongoDBport: 27017
+mongoDBname: mongtesthayk
